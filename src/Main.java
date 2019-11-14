@@ -6,4 +6,9 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
     }
+
+    public void test() {
+        int i = 0;
+        i+= 0;
+    }
 }
